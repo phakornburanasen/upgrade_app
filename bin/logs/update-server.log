@@ -1,0 +1,32 @@
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:53774","time":"2026-09-17T21:31:55+07:00"}
+{"application":"car","error":"file list failed: 404 Not Found {\"error\":{\"code\":\"FILE_LIST_FAILED\",\"message\":\"GetFileAttributesEx Z:\\\\Software\\\\car: The system cannot find the path specified.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T21:31:55+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:53774","time":"2026-09-17T21:31:55+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:65323","time":"2026-09-17T21:35:35+07:00"}
+{"application":"car","error":"file list failed: 404 Not Found {\"error\":{\"code\":\"FILE_LIST_FAILED\",\"message\":\"GetFileAttributesEx Z:\\\\car: The system cannot find the path specified.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T21:35:35+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:65323","time":"2026-09-17T21:35:35+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:55539","time":"2026-09-17T21:37:00+07:00"}
+{"application":"Car","error":"file list failed: 404 Not Found {\"error\":{\"code\":\"FILE_LIST_FAILED\",\"message\":\"GetFileAttributesEx Z:\\\\Car: The system cannot find the path specified.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T21:37:00+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:55539","time":"2026-09-17T21:37:00+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:51929","time":"2026-09-17T21:37:47+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:51930","time":"2026-09-17T21:37:47+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:51931","time":"2026-09-17T21:37:47+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:51932","time":"2026-09-17T21:37:47+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:51934","time":"2026-09-17T21:37:48+07:00"}
+{"application":"car","error":"file list failed: 404 Not Found {\"error\":{\"code\":\"FILE_LIST_FAILED\",\"message\":\"GetFileAttributesEx Z:\\\\car: The system cannot find the path specified.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T21:37:48+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:51934","time":"2026-09-17T21:37:48+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:59976","time":"2026-09-17T21:38:24+07:00"}
+{"application":"car","error":"file list failed: 404 Not Found {\"error\":{\"code\":\"FILE_LIST_FAILED\",\"message\":\"open Z:\\\\: The system cannot find the path specified.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T21:38:24+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:59976","time":"2026-09-17T21:38:24+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:59981","time":"2026-09-17T21:38:30+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:59982","time":"2026-09-17T21:38:30+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:59983","time":"2026-09-17T21:38:30+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:59984","time":"2026-09-17T21:38:30+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:54858","time":"2026-09-17T21:38:49+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:54859","time":"2026-09-17T21:38:49+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:54860","time":"2026-09-17T21:38:49+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:54861","time":"2026-09-17T21:38:49+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:58664","time":"2026-09-17T22:06:51+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:58665","time":"2026-09-17T22:07:01+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:58666","time":"2026-09-17T22:07:02+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:63855","time":"2026-09-17T22:07:59+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:54497","time":"2026-09-19T21:17:10+07:00"}

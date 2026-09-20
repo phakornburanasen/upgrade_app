@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>TNLX Software Update</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="nav-inner">
+      <div class="brand">
+        <span class="brand-mark">T</span>
+        <div>
+          <strong>TNLX Software Update</strong>
+          <span>Client updater</span>
+        </div>
+      </div>
+      <div class="nav-status" id="navStatus">Ready</div>
+    </div>
+  </nav>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <h1>Software Update</h1>
+        <p id="machine">Loading client status...</p>
+      </div>
+      <button id="refresh" class="secondary">Check All</button>
+    </header>
+
+    <section class="toolbar">
+      <input id="searchApps" class="search-input" type="search" placeholder="Search program..." autocomplete="off">
+      <button id="updateSelected" class="primary">Update Selected</button>
+      <button id="updateAll" class="secondary">Update All</button>
+      <span id="notice"></span>
+    </section>
+
+    <section class="workspace">
+      <section id="apps" class="apps"></section>
+      <aside class="selection-card">
+        <h2>Selected Systems</h2>
+        <div id="selectedCount" class="selected-count">0 selected</div>
+        <ul id="selectedList" class="selected-list">
+          <li>No systems selected.</li>
+        </ul>
+      </aside>
+    </section>
+
+    <section class="progress">
+      <div class="progress-head">
+        <div>
+          <h2>Update Progress</h2>
+          <div id="jobState">No update running.</div>
+        </div>
+        <strong id="percent">0%</strong>
+      </div>
+      <div class="bar"><span id="barFill"></span></div>
+      <div class="progress-grid">
+        <div><span>Application</span><strong id="currentApp">-</strong></div>
+        <div><span>Status</span><strong id="stage">Idle</strong></div>
+        <div><span>Files</span><strong id="fileCount">0/0</strong></div>
+        <div><span>Bytes</span><strong id="byteCount">0 / 0</strong></div>
+      </div>
+      <pre id="jobLog"></pre>
+    </section>
+  </main>
+  <footer class="footer">
+    <span>Thanulux update agent</span>
+    <span>Local UI: 127.0.0.1:45100</span>
+  </footer>
+  <aside id="stickyProgress" class="sticky-progress top-progress" aria-live="polite">
+    <div class="sticky-main">
+      <strong id="stickyTitle">No update running</strong>
+      <span id="stickyDetail">Select an application and click Update.</span>
+    </div>
+    <div class="sticky-percent" id="stickyPercent">0%</div>
+    <div class="sticky-bar"><span id="stickyBarFill"></span></div>
+  </aside>
+  <script src="/static/app.js"></script>
+</body>
+</html>

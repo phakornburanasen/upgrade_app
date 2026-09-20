@@ -1,0 +1,947 @@
+{"durationms":837,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62205","time":"2026-09-17T21:40:34+07:00"}
+{"durationms":36,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:62206","time":"2026-09-17T21:40:34+07:00"}
+{"durationms":499,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62207","time":"2026-09-17T21:40:35+07:00"}
+{"durationms":1887,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:62208","time":"2026-09-17T21:40:37+07:00"}
+{"durationms":631,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62205","time":"2026-09-17T21:41:55+07:00"}
+{"durationms":32,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:55928","time":"2026-09-17T21:41:55+07:00"}
+{"durationms":431,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:55929","time":"2026-09-17T21:41:56+07:00"}
+{"durationms":1731,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:55930","time":"2026-09-17T21:41:58+07:00"}
+{"durationms":1581,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:04+07:00"}
+{"durationms":643,"event":"request","method":"GET","path":"/api/apps/car/files/!qhlogs.doc","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:04+07:00"}
+{"durationms":472,"event":"request","method":"GET","path":"/api/apps/car/files/Car.ini","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:05+07:00"}
+{"durationms":2012,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:07+07:00"}
+{"durationms":417,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.exe","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:07+07:00"}
+{"durationms":4716,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:12+07:00"}
+{"durationms":1381,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:13+07:00"}
+{"durationms":2446,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:16+07:00"}
+{"durationms":447,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:16+07:00"}
+{"durationms":618,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:17+07:00"}
+{"durationms":543,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:17+07:00"}
+{"durationms":3916,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:21+07:00"}
+{"durationms":517,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:22+07:00"}
+{"durationms":335,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:22+07:00"}
+{"durationms":1408,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:24+07:00"}
+{"durationms":575,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.exe","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:24+07:00"}
+{"durationms":4414,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:29+07:00"}
+{"durationms":540,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:29+07:00"}
+{"durationms":367,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:29+07:00"}
+{"durationms":1473,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:31+07:00"}
+{"durationms":2851,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:34+07:00"}
+{"durationms":797,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:35+07:00"}
+{"durationms":963,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:36+07:00"}
+{"durationms":4107,"event":"request","method":"GET","path":"/api/apps/car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:40+07:00"}
+{"durationms":775,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.exe","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:40+07:00"}
+{"durationms":279,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.ini","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:41+07:00"}
+{"durationms":1157,"event":"request","method":"GET","path":"/api/apps/car/files/approve.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:42+07:00"}
+{"durationms":551,"event":"request","method":"GET","path":"/api/apps/car/files/car.exe","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:42+07:00"}
+{"durationms":4537,"event":"request","method":"GET","path":"/api/apps/car/files/car.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:47+07:00"}
+{"durationms":566,"event":"request","method":"GET","path":"/api/apps/car/files/change_version.sql","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:48+07:00"}
+{"durationms":251,"event":"request","method":"GET","path":"/api/apps/car/files/dept_emp.txt","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:48+07:00"}
+{"durationms":1454,"event":"request","method":"GET","path":"/api/apps/car/files/logon.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:49+07:00"}
+{"durationms":2745,"event":"request","method":"GET","path":"/api/apps/car/files/report.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:52+07:00"}
+{"durationms":453,"event":"request","method":"GET","path":"/api/apps/car/files/userobj.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:52+07:00"}
+{"durationms":836,"event":"request","method":"GET","path":"/api/apps/car/files/utility.pbd","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:53+07:00"}
+{"application":"car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T21:42:53+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:55933","time":"2026-09-17T21:42:53+07:00"}
+{"durationms":2005,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:19+07:00"}
+{"durationms":658,"event":"request","method":"GET","path":"/api/apps/car/files/!qhlogs.doc","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:20+07:00"}
+{"durationms":568,"event":"request","method":"GET","path":"/api/apps/car/files/Car.ini","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:20+07:00"}
+{"durationms":1255,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:22+07:00"}
+{"durationms":555,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.exe","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:22+07:00"}
+{"durationms":4596,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:27+07:00"}
+{"durationms":1463,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:28+07:00"}
+{"durationms":2692,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:31+07:00"}
+{"durationms":402,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:31+07:00"}
+{"durationms":598,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:32+07:00"}
+{"durationms":336,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:32+07:00"}
+{"durationms":5776,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:38+07:00"}
+{"durationms":601,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:39+07:00"}
+{"durationms":994,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:40+07:00"}
+{"durationms":1753,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:41+07:00"}
+{"durationms":508,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.exe","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:42+07:00"}
+{"durationms":4090,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:46+07:00"}
+{"durationms":556,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:46+07:00"}
+{"durationms":299,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:47+07:00"}
+{"durationms":1461,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:48+07:00"}
+{"durationms":2611,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:51+07:00"}
+{"durationms":599,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:51+07:00"}
+{"durationms":867,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:52+07:00"}
+{"durationms":4301,"event":"request","method":"GET","path":"/api/apps/car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:57+07:00"}
+{"durationms":487,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.exe","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:57+07:00"}
+{"durationms":300,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.ini","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:57+07:00"}
+{"durationms":1227,"event":"request","method":"GET","path":"/api/apps/car/files/approve.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:59+07:00"}
+{"durationms":442,"event":"request","method":"GET","path":"/api/apps/car/files/car.exe","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:45:59+07:00"}
+{"durationms":4157,"event":"request","method":"GET","path":"/api/apps/car/files/car.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:03+07:00"}
+{"durationms":721,"event":"request","method":"GET","path":"/api/apps/car/files/change_version.sql","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:04+07:00"}
+{"durationms":277,"event":"request","method":"GET","path":"/api/apps/car/files/dept_emp.txt","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:04+07:00"}
+{"durationms":1293,"event":"request","method":"GET","path":"/api/apps/car/files/logon.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:06+07:00"}
+{"durationms":3003,"event":"request","method":"GET","path":"/api/apps/car/files/report.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:09+07:00"}
+{"durationms":420,"event":"request","method":"GET","path":"/api/apps/car/files/userobj.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:09+07:00"}
+{"durationms":789,"event":"request","method":"GET","path":"/api/apps/car/files/utility.pbd","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:10+07:00"}
+{"application":"car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T21:46:10+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:54179","time":"2026-09-17T21:46:10+07:00"}
+{"durationms":1896,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:31+07:00"}
+{"durationms":662,"event":"request","method":"GET","path":"/api/apps/car/files/!qhlogs.doc","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:31+07:00"}
+{"durationms":299,"event":"request","method":"GET","path":"/api/apps/car/files/Car.ini","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:32+07:00"}
+{"durationms":1385,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:33+07:00"}
+{"durationms":527,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.exe","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:34+07:00"}
+{"durationms":4406,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:38+07:00"}
+{"durationms":1501,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:40+07:00"}
+{"durationms":3117,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:43+07:00"}
+{"durationms":480,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:43+07:00"}
+{"durationms":618,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:44+07:00"}
+{"durationms":277,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:44+07:00"}
+{"durationms":3970,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:48+07:00"}
+{"durationms":488,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:49+07:00"}
+{"durationms":300,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:49+07:00"}
+{"durationms":1648,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:50+07:00"}
+{"durationms":627,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.exe","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:51+07:00"}
+{"durationms":4270,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:55+07:00"}
+{"durationms":538,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:56+07:00"}
+{"durationms":298,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:56+07:00"}
+{"durationms":1440,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:46:58+07:00"}
+{"durationms":4011,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:02+07:00"}
+{"durationms":542,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:02+07:00"}
+{"durationms":843,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:03+07:00"}
+{"durationms":3893,"event":"request","method":"GET","path":"/api/apps/car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:07+07:00"}
+{"durationms":464,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.exe","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:07+07:00"}
+{"durationms":300,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.ini","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:08+07:00"}
+{"durationms":1190,"event":"request","method":"GET","path":"/api/apps/car/files/approve.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:09+07:00"}
+{"durationms":538,"event":"request","method":"GET","path":"/api/apps/car/files/car.exe","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:09+07:00"}
+{"durationms":5079,"event":"request","method":"GET","path":"/api/apps/car/files/car.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:15+07:00"}
+{"durationms":767,"event":"request","method":"GET","path":"/api/apps/car/files/change_version.sql","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:15+07:00"}
+{"durationms":440,"event":"request","method":"GET","path":"/api/apps/car/files/dept_emp.txt","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:16+07:00"}
+{"durationms":1316,"event":"request","method":"GET","path":"/api/apps/car/files/logon.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:17+07:00"}
+{"durationms":2798,"event":"request","method":"GET","path":"/api/apps/car/files/report.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:20+07:00"}
+{"durationms":449,"event":"request","method":"GET","path":"/api/apps/car/files/userobj.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:20+07:00"}
+{"durationms":1026,"event":"request","method":"GET","path":"/api/apps/car/files/utility.pbd","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:21+07:00"}
+{"application":"car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T21:47:21+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:60615","time":"2026-09-17T21:47:21+07:00"}
+{"durationms":2183,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:33+07:00"}
+{"durationms":543,"event":"request","method":"GET","path":"/api/apps/car/files/!qhlogs.doc","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:34+07:00"}
+{"durationms":463,"event":"request","method":"GET","path":"/api/apps/car/files/Car.ini","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:34+07:00"}
+{"durationms":1291,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:36+07:00"}
+{"durationms":506,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.exe","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:36+07:00"}
+{"durationms":4185,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:40+07:00"}
+{"durationms":1619,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:42+07:00"}
+{"durationms":3152,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:45+07:00"}
+{"durationms":763,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:46+07:00"}
+{"durationms":638,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:47+07:00"}
+{"durationms":279,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:47+07:00"}
+{"durationms":5394,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:52+07:00"}
+{"durationms":573,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:53+07:00"}
+{"durationms":342,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:53+07:00"}
+{"durationms":1612,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:55+07:00"}
+{"durationms":468,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.exe","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:51:55+07:00"}
+{"durationms":4206,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:00+07:00"}
+{"durationms":600,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:00+07:00"}
+{"durationms":273,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:00+07:00"}
+{"durationms":1624,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:02+07:00"}
+{"durationms":2733,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:05+07:00"}
+{"durationms":1018,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:06+07:00"}
+{"durationms":815,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:07+07:00"}
+{"durationms":4178,"event":"request","method":"GET","path":"/api/apps/car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:11+07:00"}
+{"durationms":536,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.exe","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:11+07:00"}
+{"durationms":319,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.ini","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:12+07:00"}
+{"durationms":1326,"event":"request","method":"GET","path":"/api/apps/car/files/approve.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:13+07:00"}
+{"durationms":471,"event":"request","method":"GET","path":"/api/apps/car/files/car.exe","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:13+07:00"}
+{"durationms":4501,"event":"request","method":"GET","path":"/api/apps/car/files/car.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:18+07:00"}
+{"durationms":563,"event":"request","method":"GET","path":"/api/apps/car/files/change_version.sql","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:19+07:00"}
+{"durationms":303,"event":"request","method":"GET","path":"/api/apps/car/files/dept_emp.txt","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:19+07:00"}
+{"durationms":1281,"event":"request","method":"GET","path":"/api/apps/car/files/logon.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:20+07:00"}
+{"durationms":3210,"event":"request","method":"GET","path":"/api/apps/car/files/report.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:23+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/car/files/userobj.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:24+07:00"}
+{"durationms":751,"event":"request","method":"GET","path":"/api/apps/car/files/utility.pbd","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:25+07:00"}
+{"application":"car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T21:52:25+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:65173","time":"2026-09-17T21:52:25+07:00"}
+{"durationms":2385,"event":"request","method":"GET","path":"/api/apps/car/files","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:13+07:00"}
+{"durationms":1184,"event":"request","method":"GET","path":"/api/apps/car/files/!qhlogs.doc","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:14+07:00"}
+{"durationms":3320,"event":"request","method":"GET","path":"/api/apps/car/files/Car.ini","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:17+07:00"}
+{"durationms":5496,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:23+07:00"}
+{"durationms":1792,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.exe","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:24+07:00"}
+{"durationms":18159,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:43+07:00"}
+{"durationms":9385,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:54:52+07:00"}
+{"durationms":24970,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:17+07:00"}
+{"durationms":833,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:18+07:00"}
+{"durationms":2646,"event":"request","method":"GET","path":"/api/apps/car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:20+07:00"}
+{"durationms":656,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:21+07:00"}
+{"durationms":6176,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:27+07:00"}
+{"durationms":854,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:28+07:00"}
+{"durationms":503,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:29+07:00"}
+{"durationms":1410,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:30+07:00"}
+{"durationms":520,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.exe","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:31+07:00"}
+{"durationms":4053,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:35+07:00"}
+{"durationms":604,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:35+07:00"}
+{"durationms":279,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:35+07:00"}
+{"durationms":1524,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:37+07:00"}
+{"durationms":2664,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:40+07:00"}
+{"durationms":547,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:40+07:00"}
+{"durationms":925,"event":"request","method":"GET","path":"/api/apps/car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:41+07:00"}
+{"durationms":5211,"event":"request","method":"GET","path":"/api/apps/car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:46+07:00"}
+{"durationms":530,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.exe","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:47+07:00"}
+{"durationms":290,"event":"request","method":"GET","path":"/api/apps/car/files/Upgrade.ini","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:47+07:00"}
+{"durationms":1369,"event":"request","method":"GET","path":"/api/apps/car/files/approve.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:49+07:00"}
+{"durationms":411,"event":"request","method":"GET","path":"/api/apps/car/files/car.exe","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:49+07:00"}
+{"durationms":4754,"event":"request","method":"GET","path":"/api/apps/car/files/car.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:54+07:00"}
+{"durationms":679,"event":"request","method":"GET","path":"/api/apps/car/files/change_version.sql","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:54+07:00"}
+{"durationms":280,"event":"request","method":"GET","path":"/api/apps/car/files/dept_emp.txt","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:55+07:00"}
+{"durationms":1713,"event":"request","method":"GET","path":"/api/apps/car/files/logon.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:55:56+07:00"}
+{"durationms":3343,"event":"request","method":"GET","path":"/api/apps/car/files/report.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:56:00+07:00"}
+{"durationms":398,"event":"request","method":"GET","path":"/api/apps/car/files/userobj.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:56:00+07:00"}
+{"durationms":746,"event":"request","method":"GET","path":"/api/apps/car/files/utility.pbd","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:56:01+07:00"}
+{"application":"car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T21:56:01+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:63061","time":"2026-09-17T21:56:01+07:00"}
+{"durationms":1105,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:64297","time":"2026-09-17T21:59:25+07:00"}
+{"durationms":761,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:64297","time":"2026-09-17T21:59:42+07:00"}
+{"durationms":532,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:64297","time":"2026-09-17T21:59:42+07:00"}
+{"durationms":1008,"event":"request","method":"GET","path":"/api/health","remote_ip":"127.0.0.1:56520","time":"2026-09-17T22:08:38+07:00"}
+{"durationms":2831,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:56522","time":"2026-09-17T22:08:40+07:00"}
+{"durationms":482,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:08:50+07:00"}
+{"durationms":1888,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:08:57+07:00"}
+{"durationms":1129,"event":"request","method":"GET","path":"/api/apps/comtime_Com/files","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:13+07:00"}
+{"durationms":1885,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:29+07:00"}
+{"durationms":689,"event":"request","method":"GET","path":"/api/apps/Arale/files/!qhlogs.doc","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:30+07:00"}
+{"durationms":2229,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.BMP","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:32+07:00"}
+{"durationms":387,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.INI","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:32+07:00"}
+{"durationms":498,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_BKK.bat","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:33+07:00"}
+{"durationms":556,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_KBN.bat","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:33+07:00"}
+{"durationms":296,"event":"request","method":"GET","path":"/api/apps/Arale/files/BKK/Arale.INI","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:34+07:00"}
+{"durationms":374,"event":"request","method":"GET","path":"/api/apps/Arale/files/KBN/Arale.INI","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:34+07:00"}
+{"durationms":638,"event":"request","method":"GET","path":"/api/apps/Arale/files/Thumbs.db","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:35+07:00"}
+{"durationms":549,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.exe","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:35+07:00"}
+{"durationms":860,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.ini","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:36+07:00"}
+{"durationms":1469,"event":"request","method":"GET","path":"/api/apps/Arale/files/ar.pbr","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:37+07:00"}
+{"durationms":2413,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62498","time":"2026-09-17T22:09:40+07:00"}
+{"durationms":7082,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.exe","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:45+07:00"}
+{"durationms":2354,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:47+07:00"}
+{"durationms":4691,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_app.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:52+07:00"}
+{"durationms":4352,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.exe","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:56+07:00"}
+{"durationms":2038,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:09:58+07:00"}
+{"durationms":1789,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_rep.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:00+07:00"}
+{"durationms":1871,"event":"request","method":"GET","path":"/api/apps/Arale/files/cutting_report.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:02+07:00"}
+{"durationms":2489,"event":"request","method":"GET","path":"/api/apps/Arale/files/masterobject.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:04+07:00"}
+{"durationms":3833,"event":"request","method":"GET","path":"/api/apps/Arale/files/pattern_and_tool.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:08+07:00"}
+{"durationms":663,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format.bat","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:09+07:00"}
+{"durationms":732,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:09+07:00"}
+{"durationms":551,"event":"request","method":"GET","path":"/api/apps/Arale/files/stair.ico","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:10+07:00"}
+{"durationms":2019,"event":"request","method":"GET","path":"/api/apps/Arale/files/utility.pbd","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:12+07:00"}
+{"application":"Arale","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:10:12+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:62488","time":"2026-09-17T22:10:12+07:00"}
+{"durationms":702,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:06+07:00"}
+{"durationms":1693,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:13+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/Arale/files/!qhlogs.doc","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:13+07:00"}
+{"durationms":2803,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.BMP","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:16+07:00"}
+{"durationms":336,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.INI","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:16+07:00"}
+{"durationms":477,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_BKK.bat","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:17+07:00"}
+{"durationms":459,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_KBN.bat","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:17+07:00"}
+{"durationms":301,"event":"request","method":"GET","path":"/api/apps/Arale/files/BKK/Arale.INI","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:18+07:00"}
+{"durationms":296,"event":"request","method":"GET","path":"/api/apps/Arale/files/KBN/Arale.INI","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:18+07:00"}
+{"durationms":484,"event":"request","method":"GET","path":"/api/apps/Arale/files/Thumbs.db","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:18+07:00"}
+{"durationms":495,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.exe","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:19+07:00"}
+{"durationms":316,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.ini","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:19+07:00"}
+{"durationms":279,"event":"request","method":"GET","path":"/api/apps/Arale/files/ar.pbr","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:20+07:00"}
+{"durationms":2377,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.exe","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:22+07:00"}
+{"durationms":1241,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:23+07:00"}
+{"durationms":2273,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_app.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:25+07:00"}
+{"durationms":2309,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.exe","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:28+07:00"}
+{"durationms":2056,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:30+07:00"}
+{"durationms":6293,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_rep.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:36+07:00"}
+{"durationms":3784,"event":"request","method":"GET","path":"/api/apps/Arale/files/cutting_report.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:40+07:00"}
+{"durationms":5128,"event":"request","method":"GET","path":"/api/apps/Arale/files/masterobject.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:45+07:00"}
+{"durationms":3675,"event":"request","method":"GET","path":"/api/apps/Arale/files/pattern_and_tool.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:49+07:00"}
+{"durationms":595,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format.bat","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:49+07:00"}
+{"durationms":478,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:50+07:00"}
+{"durationms":362,"event":"request","method":"GET","path":"/api/apps/Arale/files/stair.ico","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:50+07:00"}
+{"durationms":1655,"event":"request","method":"GET","path":"/api/apps/Arale/files/utility.pbd","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:52+07:00"}
+{"application":"Arale","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:11:52+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:60086","time":"2026-09-17T22:11:52+07:00"}
+{"durationms":753,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:20+07:00"}
+{"durationms":2007,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:47+07:00"}
+{"durationms":576,"event":"request","method":"GET","path":"/api/apps/Car/files/!qhlogs.doc","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:48+07:00"}
+{"durationms":285,"event":"request","method":"GET","path":"/api/apps/Car/files/Car.ini","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:48+07:00"}
+{"durationms":1717,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:50+07:00"}
+{"durationms":770,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.exe","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:50+07:00"}
+{"durationms":6088,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:57+07:00"}
+{"durationms":1860,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:14:58+07:00"}
+{"durationms":3200,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:02+07:00"}
+{"durationms":799,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:02+07:00"}
+{"durationms":1344,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:04+07:00"}
+{"durationms":291,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:04+07:00"}
+{"durationms":5542,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:10+07:00"}
+{"durationms":623,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:10+07:00"}
+{"durationms":293,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:11+07:00"}
+{"durationms":1842,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:12+07:00"}
+{"durationms":896,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.exe","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:13+07:00"}
+{"durationms":5716,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:19+07:00"}
+{"durationms":602,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:20+07:00"}
+{"durationms":336,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:20+07:00"}
+{"durationms":2020,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:22+07:00"}
+{"durationms":2898,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:25+07:00"}
+{"durationms":520,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:25+07:00"}
+{"durationms":783,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:26+07:00"}
+{"durationms":6817,"event":"request","method":"GET","path":"/api/apps/Car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:33+07:00"}
+{"durationms":553,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.exe","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:34+07:00"}
+{"durationms":339,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.ini","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:34+07:00"}
+{"durationms":1661,"event":"request","method":"GET","path":"/api/apps/Car/files/approve.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:36+07:00"}
+{"durationms":900,"event":"request","method":"GET","path":"/api/apps/Car/files/car.exe","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:36+07:00"}
+{"durationms":8381,"event":"request","method":"GET","path":"/api/apps/Car/files/car.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:45+07:00"}
+{"durationms":782,"event":"request","method":"GET","path":"/api/apps/Car/files/change_version.sql","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:46+07:00"}
+{"durationms":277,"event":"request","method":"GET","path":"/api/apps/Car/files/dept_emp.txt","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:46+07:00"}
+{"durationms":1749,"event":"request","method":"GET","path":"/api/apps/Car/files/logon.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:48+07:00"}
+{"durationms":6351,"event":"request","method":"GET","path":"/api/apps/Car/files/report.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:54+07:00"}
+{"durationms":1545,"event":"request","method":"GET","path":"/api/apps/Car/files/userobj.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:56+07:00"}
+{"durationms":2010,"event":"request","method":"GET","path":"/api/apps/Car/files/utility.pbd","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:58+07:00"}
+{"application":"Car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:15:58+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:57597","time":"2026-09-17T22:15:58+07:00"}
+{"durationms":773,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:20:50+07:00"}
+{"durationms":2043,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:21:56+07:00"}
+{"durationms":598,"event":"request","method":"GET","path":"/api/apps/Car/files/!qhlogs.doc","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:21:57+07:00"}
+{"durationms":308,"event":"request","method":"GET","path":"/api/apps/Car/files/Car.ini","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:21:57+07:00"}
+{"durationms":2052,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:21:59+07:00"}
+{"durationms":509,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.exe","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:21:59+07:00"}
+{"durationms":9774,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:09+07:00"}
+{"durationms":4575,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:14+07:00"}
+{"durationms":6856,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:21+07:00"}
+{"durationms":620,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:21+07:00"}
+{"durationms":857,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:22+07:00"}
+{"durationms":664,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:23+07:00"}
+{"durationms":5172,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:28+07:00"}
+{"durationms":539,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:28+07:00"}
+{"durationms":360,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:29+07:00"}
+{"durationms":1750,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:31+07:00"}
+{"durationms":615,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.exe","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:31+07:00"}
+{"durationms":13769,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:45+07:00"}
+{"durationms":759,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:46+07:00"}
+{"durationms":681,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:46+07:00"}
+{"durationms":3937,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:50+07:00"}
+{"durationms":8759,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:22:59+07:00"}
+{"durationms":646,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:00+07:00"}
+{"durationms":1113,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:01+07:00"}
+{"durationms":6199,"event":"request","method":"GET","path":"/api/apps/Car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:07+07:00"}
+{"durationms":1372,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.exe","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:08+07:00"}
+{"durationms":461,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.ini","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:09+07:00"}
+{"durationms":2451,"event":"request","method":"GET","path":"/api/apps/Car/files/approve.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:11+07:00"}
+{"durationms":559,"event":"request","method":"GET","path":"/api/apps/Car/files/car.exe","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:12+07:00"}
+{"durationms":9692,"event":"request","method":"GET","path":"/api/apps/Car/files/car.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:22+07:00"}
+{"durationms":697,"event":"request","method":"GET","path":"/api/apps/Car/files/change_version.sql","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:22+07:00"}
+{"durationms":320,"event":"request","method":"GET","path":"/api/apps/Car/files/dept_emp.txt","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:23+07:00"}
+{"durationms":2180,"event":"request","method":"GET","path":"/api/apps/Car/files/logon.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:25+07:00"}
+{"durationms":6420,"event":"request","method":"GET","path":"/api/apps/Car/files/report.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:31+07:00"}
+{"durationms":431,"event":"request","method":"GET","path":"/api/apps/Car/files/userobj.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:32+07:00"}
+{"durationms":1156,"event":"request","method":"GET","path":"/api/apps/Car/files/utility.pbd","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:33+07:00"}
+{"application":"Car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:23:33+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:52436","time":"2026-09-17T22:23:33+07:00"}
+{"durationms":731,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:23:54+07:00"}
+{"durationms":2919,"event":"request","method":"GET","path":"/api/apps/Exam_order/files","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:13+07:00"}
+{"durationms":732,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/!qhlogs.doc","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:14+07:00"}
+{"durationms":616,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/BOOK9.BMP","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:15+07:00"}
+{"durationms":738,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Bus.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:16+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Connect_P_11.bat","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:16+07:00"}
+{"durationms":690,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Cost.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:17+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Dis_Bus.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:17+07:00"}
+{"durationms":1102,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Dis_Cost.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:19+07:00"}
+{"durationms":863,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Dis_Production.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:19+07:00"}
+{"durationms":1029,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Dis_Tech.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:20+07:00"}
+{"durationms":590,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Disconnect_P_11.bat","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:21+07:00"}
+{"durationms":739,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Exam.ini","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:22+07:00"}
+{"durationms":10496,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Exam_Order.docx","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:32+07:00"}
+{"durationms":719,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/FLDROPN2.BMP","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:33+07:00"}
+{"durationms":9365,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Nexamp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:42+07:00"}
+{"durationms":720,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Production.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:43+07:00"}
+{"durationms":6362,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/Nexamp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:49+07:00"}
+{"durationms":839,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/exam_y.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:50+07:00"}
+{"durationms":2561,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/examp.exe","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:24:53+07:00"}
+{"durationms":7326,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/examp.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:00+07:00"}
+{"durationms":1830,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/examp_t.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:02+07:00"}
+{"durationms":10246,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/examp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:12+07:00"}
+{"durationms":13924,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/examp_tee_old.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:26+07:00"}
+{"durationms":1706,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/masterobject.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:28+07:00"}
+{"durationms":17878,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/o_examp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:46+07:00"}
+{"durationms":2024,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Prog Old/utility.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:48+07:00"}
+{"durationms":1894,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Run_Photoscape.bat","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:50+07:00"}
+{"durationms":640,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/TNL/Exam.ini","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:50+07:00"}
+{"durationms":752,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Tech.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:51+07:00"}
+{"durationms":1166,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Thumbs.db","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:52+07:00"}
+{"durationms":774,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Upgrade.exe","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:53+07:00"}
+{"durationms":707,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/Upgrade.ini","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:54+07:00"}
+{"durationms":737,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/ex.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:54+07:00"}
+{"durationms":933,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/exam.BK1","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:55+07:00"}
+{"durationms":696,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/exam_tnl.bat","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:56+07:00"}
+{"durationms":936,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/exam_y.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:25:57+07:00"}
+{"durationms":2735,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp.exe","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:00+07:00"}
+{"durationms":6338,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:06+07:00"}
+{"durationms":12341,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp.pbl","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:18+07:00"}
+{"durationms":3496,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp_t.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:22+07:00"}
+{"durationms":8820,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:31+07:00"}
+{"durationms":10145,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/examp_tee_old.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:41+07:00"}
+{"durationms":1570,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/greenball.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:43+07:00"}
+{"durationms":698,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/help.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:43+07:00"}
+{"durationms":1735,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/leather.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:45+07:00"}
+{"durationms":1796,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/masterobject.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:47+07:00"}
+{"durationms":7448,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/o_examp_tee.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:54+07:00"}
+{"durationms":764,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/pic.pbr","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:55+07:00"}
+{"durationms":1092,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/redball.bmp","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:56+07:00"}
+{"durationms":1548,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/utility.pbd","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:26:58+07:00"}
+{"durationms":3348,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/คู่มือการใช้งานระบบใบสั่งผลิตตัวอย่างnew.doc","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:27:01+07:00"}
+{"durationms":3223,"event":"request","method":"GET","path":"/api/apps/Exam_order/files/คู่มือสอนการใส่รูปภาพ ลงในโปรแกรม.docx","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:27:04+07:00"}
+{"application":"Exam_order","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:27:04+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:56402","time":"2026-09-17T22:27:04+07:00"}
+{"durationms":655,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:32:39+07:00"}
+{"durationms":10278,"event":"request","method":"GET","path":"/api/apps/ListBill/files","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:31+07:00"}
+{"durationms":539,"event":"request","method":"GET","path":"/api/apps/ListBill/files/!qhlogs.doc","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:32+07:00"}
+{"durationms":2914,"event":"request","method":"GET","path":"/api/apps/ListBill/files/BKK/listbill.INI","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:34+07:00"}
+{"durationms":683,"event":"request","method":"GET","path":"/api/apps/ListBill/files/BOX.bmp","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:35+07:00"}
+{"durationms":796,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Baipa_TSDC.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:36+07:00"}
+{"durationms":500,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_Fair.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:36+07:00"}
+{"durationms":649,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_Fair_ICC.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:37+07:00"}
+{"durationms":760,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_Fair_New.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:38+07:00"}
+{"durationms":460,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_Fair_New.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:38+07:00"}
+{"durationms":495,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_Fair_PO.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:39+07:00"}
+{"durationms":621,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_New.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:39+07:00"}
+{"durationms":658,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_New_Style.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:40+07:00"}
+{"durationms":368,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_TF.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:40+07:00"}
+{"durationms":560,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_TSDC.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:41+07:00"}
+{"durationms":546,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Baipa_box.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:42+07:00"}
+{"durationms":545,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/LIST_DO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:42+07:00"}
+{"durationms":692,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/LIST_Fair.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:43+07:00"}
+{"durationms":891,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/LIST_Fair_ICC.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:44+07:00"}
+{"durationms":603,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/LIST_Fair_PO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:44+07:00"}
+{"durationms":842,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/LIST_Transfer.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:45+07:00"}
+{"durationms":617,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/Baipa_box.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:46+07:00"}
+{"durationms":393,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/LIST_DO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:46+07:00"}
+{"durationms":1024,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/LIST_Fair.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:47+07:00"}
+{"durationms":634,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/LIST_Transfer.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:48+07:00"}
+{"durationms":479,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/baipa_box.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:48+07:00"}
+{"durationms":935,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี67/LIST_DO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:49+07:00"}
+{"durationms":1255,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี67/LIST_Fair.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:51+07:00"}
+{"durationms":521,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี67/LIST_Fair_PO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:51+07:00"}
+{"durationms":789,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี67/LIST_Transfer.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:52+07:00"}
+{"durationms":769,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี69/Baipa_New.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:53+07:00"}
+{"durationms":633,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข ปี69/Baipa_New_Style.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:53+07:00"}
+{"durationms":1115,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/Old/ก่อนแก้ไข/LIST_Fair.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:54+07:00"}
+{"durationms":1028,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_Fair.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:55+07:00"}
+{"durationms":1208,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_Fair_ICC.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:57+07:00"}
+{"durationms":463,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_Fair_New.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:57+07:00"}
+{"durationms":454,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_Fair_PO.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:58+07:00"}
+{"durationms":483,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_New.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:58+07:00"}
+{"durationms":393,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_TF.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:58+07:00"}
+{"durationms":455,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_box.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:59+07:00"}
+{"durationms":484,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_new.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:33:59+07:00"}
+{"durationms":514,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_style.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:00+07:00"}
+{"durationms":901,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/baipa_style.txt","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:01+07:00"}
+{"durationms":659,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Data/แก้เคส ล่าสุด/LIST_Transfer.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:01+07:00"}
+{"durationms":450,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Font/FRE3OF9X.TTF","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:02+07:00"}
+{"durationms":1925,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Font/FREE3OF9.TTF","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:04+07:00"}
+{"durationms":675,"event":"request","method":"GET","path":"/api/apps/ListBill/files/JOB/2RecFile_wallroom.cfg","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:04+07:00"}
+{"durationms":501,"event":"request","method":"GET","path":"/api/apps/ListBill/files/JOB/2Recive_File_Wallroom.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:05+07:00"}
+{"durationms":536,"event":"request","method":"GET","path":"/api/apps/ListBill/files/JOB/RecFile.cfg","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:06+07:00"}
+{"durationms":782,"event":"request","method":"GET","path":"/api/apps/ListBill/files/JOB/RecFile.log","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:06+07:00"}
+{"durationms":498,"event":"request","method":"GET","path":"/api/apps/ListBill/files/JOB/Recive_File.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:07+07:00"}
+{"durationms":330,"event":"request","method":"GET","path":"/api/apps/ListBill/files/KBN/listbill.INI","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:07+07:00"}
+{"durationms":340,"event":"request","method":"GET","path":"/api/apps/ListBill/files/LPN.bat","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:07+07:00"}
+{"durationms":343,"event":"request","method":"GET","path":"/api/apps/ListBill/files/LPN/listbill.INI","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:08+07:00"}
+{"durationms":643,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/Back Bartender/LIST_DO.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:08+07:00"}
+{"durationms":776,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/Back Bartender/LIST_Fair.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:09+07:00"}
+{"durationms":700,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/Back Bartender/LIST_Transfer.btw","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:10+07:00"}
+{"durationms":579,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/Thumbs.db","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:11+07:00"}
+{"durationms":1436,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/list_bill.exe","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:12+07:00"}
+{"durationms":2931,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/list_bill.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:15+07:00"}
+{"durationms":2010,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/listbill_d.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:17+07:00"}
+{"durationms":3742,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/listbill_menu.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:21+07:00"}
+{"durationms":6459,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/listbill_trans.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:27+07:00"}
+{"durationms":4748,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/listbill_w.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:32+07:00"}
+{"durationms":7361,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/listbill_y.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:39+07:00"}
+{"durationms":5619,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/report.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:34:45+07:00"}
+{"durationms":22147,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/sorter.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:07+07:00"}
+{"durationms":6570,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NEW/utility_w.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:14+07:00"}
+{"durationms":611,"event":"request","method":"GET","path":"/api/apps/ListBill/files/NO.WAV","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:14+07:00"}
+{"durationms":650,"event":"request","method":"GET","path":"/api/apps/ListBill/files/ORDER.ICO","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:15+07:00"}
+{"durationms":1054,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/Upgrade.exe","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:16+07:00"}
+{"durationms":677,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/list_bill.exe","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:17+07:00"}
+{"durationms":3567,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/list_bill.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:20+07:00"}
+{"durationms":3720,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_d.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:24+07:00"}
+{"durationms":1563,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_menu.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:25+07:00"}
+{"durationms":2690,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_n.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:28+07:00"}
+{"durationms":3635,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_trans.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:32+07:00"}
+{"durationms":5597,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_w.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:35:37+07:00"}
+{"durationms":30019,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/listbill_y.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:07+07:00"}
+{"durationms":799,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/old_listbill_menu.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:08+07:00"}
+{"durationms":4856,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/old_sorter.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:13+07:00"}
+{"durationms":3020,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/report.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:16+07:00"}
+{"durationms":40334,"event":"request","method":"GET","path":"/api/apps/ListBill/files/Old Prg 29 04 2024/sorter.pbd","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:56+07:00"}
+{"application":"ListBill","error":"download Old Prg 29 04 2024/sorter.pbd failed: 404 Not Found {\"error\":{\"code\":\"FILE_NOT_FOUND\",\"message\":\"CreateFile \\\\\\\\10.0.32.1\\\\appl$\\\\Program\\\\ListBill\\\\Old Prg 29 04 2024\\\\sorter.pbd: The network path was not found.\"},\"success\":false}","event":"client_report","message":"","status":"failed","time":"2026-09-17T22:36:56+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:55494","time":"2026-09-17T22:36:56+07:00"}
+{"durationms":0,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:55867","time":"2026-09-17T22:37:21+07:00"}
+{"durationms":21022,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:64800","time":"2026-09-17T22:38:07+07:00"}
+{"durationms":1402,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:56185","time":"2026-09-17T22:38:51+07:00"}
+{"durationms":3418,"event":"request","method":"GET","path":"/api/apps/TSDC/files","remote_ip":"127.0.0.1:56185","time":"2026-09-17T22:39:21+07:00"}
+{"durationms":23102,"event":"request","method":"GET","path":"/api/apps/TSDC/files/Delete Right Single quote v2.exe","remote_ip":"127.0.0.1:56185","time":"2026-09-17T22:39:44+07:00"}
+{"application":"TSDC","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:39:44+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:56185","time":"2026-09-17T22:39:44+07:00"}
+{"durationms":2379,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:29+07:00"}
+{"durationms":692,"event":"request","method":"GET","path":"/api/apps/Arale/files/!qhlogs.doc","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:29+07:00"}
+{"durationms":6277,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.BMP","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:36+07:00"}
+{"durationms":456,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.INI","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:36+07:00"}
+{"durationms":539,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_BKK.bat","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:37+07:00"}
+{"durationms":500,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_KBN.bat","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:37+07:00"}
+{"durationms":297,"event":"request","method":"GET","path":"/api/apps/Arale/files/BKK/Arale.INI","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:37+07:00"}
+{"durationms":473,"event":"request","method":"GET","path":"/api/apps/Arale/files/KBN/Arale.INI","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:38+07:00"}
+{"durationms":482,"event":"request","method":"GET","path":"/api/apps/Arale/files/Thumbs.db","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:38+07:00"}
+{"durationms":1080,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.exe","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:39+07:00"}
+{"durationms":324,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.ini","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:40+07:00"}
+{"durationms":344,"event":"request","method":"GET","path":"/api/apps/Arale/files/ar.pbr","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:40+07:00"}
+{"durationms":3569,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.exe","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:44+07:00"}
+{"durationms":1500,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:45+07:00"}
+{"durationms":3259,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_app.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:48+07:00"}
+{"durationms":10078,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.exe","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:45:58+07:00"}
+{"durationms":2719,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:01+07:00"}
+{"durationms":3603,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_rep.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:05+07:00"}
+{"durationms":2194,"event":"request","method":"GET","path":"/api/apps/Arale/files/cutting_report.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:07+07:00"}
+{"durationms":2341,"event":"request","method":"GET","path":"/api/apps/Arale/files/masterobject.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:09+07:00"}
+{"durationms":9813,"event":"request","method":"GET","path":"/api/apps/Arale/files/pattern_and_tool.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:19+07:00"}
+{"durationms":744,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format.bat","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:20+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:20+07:00"}
+{"durationms":332,"event":"request","method":"GET","path":"/api/apps/Arale/files/stair.ico","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:21+07:00"}
+{"durationms":1731,"event":"request","method":"GET","path":"/api/apps/Arale/files/utility.pbd","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:23+07:00"}
+{"application":"Arale","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:46:23+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:52097","time":"2026-09-17T22:46:23+07:00"}
+{"durationms":2639,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:40+07:00"}
+{"durationms":617,"event":"request","method":"GET","path":"/api/apps/Arale/files/!qhlogs.doc","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:41+07:00"}
+{"durationms":8691,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.BMP","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:50+07:00"}
+{"durationms":1116,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.INI","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:51+07:00"}
+{"durationms":1385,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_BKK.bat","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:52+07:00"}
+{"durationms":520,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_KBN.bat","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:53+07:00"}
+{"durationms":335,"event":"request","method":"GET","path":"/api/apps/Arale/files/BKK/Arale.INI","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:53+07:00"}
+{"durationms":295,"event":"request","method":"GET","path":"/api/apps/Arale/files/KBN/Arale.INI","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:53+07:00"}
+{"durationms":1437,"event":"request","method":"GET","path":"/api/apps/Arale/files/Thumbs.db","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:55+07:00"}
+{"durationms":1507,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.exe","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:56+07:00"}
+{"durationms":1861,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.ini","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:58+07:00"}
+{"durationms":956,"event":"request","method":"GET","path":"/api/apps/Arale/files/ar.pbr","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:46:59+07:00"}
+{"durationms":27016,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.exe","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:26+07:00"}
+{"durationms":6311,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:32+07:00"}
+{"durationms":6299,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_app.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:39+07:00"}
+{"durationms":5184,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.exe","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:44+07:00"}
+{"durationms":2368,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:46+07:00"}
+{"durationms":3112,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_rep.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:49+07:00"}
+{"durationms":4270,"event":"request","method":"GET","path":"/api/apps/Arale/files/cutting_report.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:54+07:00"}
+{"durationms":4077,"event":"request","method":"GET","path":"/api/apps/Arale/files/masterobject.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:47:58+07:00"}
+{"durationms":8922,"event":"request","method":"GET","path":"/api/apps/Arale/files/pattern_and_tool.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:07+07:00"}
+{"durationms":621,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format.bat","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:07+07:00"}
+{"durationms":519,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:08+07:00"}
+{"durationms":331,"event":"request","method":"GET","path":"/api/apps/Arale/files/stair.ico","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:08+07:00"}
+{"durationms":2471,"event":"request","method":"GET","path":"/api/apps/Arale/files/utility.pbd","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:10+07:00"}
+{"application":"Arale","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:48:11+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:59433","time":"2026-09-17T22:48:11+07:00"}
+{"durationms":2024,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:50:44+07:00"}
+{"durationms":1813,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:50:53+07:00"}
+{"durationms":1590,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:50:56+07:00"}
+{"durationms":1815,"event":"request","method":"GET","path":"/api/apps/Arale/files","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:02+07:00"}
+{"durationms":854,"event":"request","method":"GET","path":"/api/apps/Arale/files/!qhlogs.doc","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:02+07:00"}
+{"durationms":2497,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.BMP","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:05+07:00"}
+{"durationms":345,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale.INI","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:05+07:00"}
+{"durationms":600,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_BKK.bat","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:06+07:00"}
+{"durationms":482,"event":"request","method":"GET","path":"/api/apps/Arale/files/Arale_KBN.bat","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:06+07:00"}
+{"durationms":276,"event":"request","method":"GET","path":"/api/apps/Arale/files/BKK/Arale.INI","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:07+07:00"}
+{"durationms":555,"event":"request","method":"GET","path":"/api/apps/Arale/files/KBN/Arale.INI","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:07+07:00"}
+{"durationms":394,"event":"request","method":"GET","path":"/api/apps/Arale/files/Thumbs.db","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:08+07:00"}
+{"durationms":514,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.exe","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:08+07:00"}
+{"durationms":345,"event":"request","method":"GET","path":"/api/apps/Arale/files/Upgrade.ini","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:08+07:00"}
+{"durationms":340,"event":"request","method":"GET","path":"/api/apps/Arale/files/ar.pbr","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:09+07:00"}
+{"durationms":3593,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.exe","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:12+07:00"}
+{"durationms":1320,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:14+07:00"}
+{"durationms":3305,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_app.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:17+07:00"}
+{"durationms":4428,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.exe","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:21+07:00"}
+{"durationms":2864,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_new.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:24+07:00"}
+{"durationms":2039,"event":"request","method":"GET","path":"/api/apps/Arale/files/arale_rep.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:26+07:00"}
+{"durationms":1680,"event":"request","method":"GET","path":"/api/apps/Arale/files/cutting_report.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:28+07:00"}
+{"durationms":1753,"event":"request","method":"GET","path":"/api/apps/Arale/files/masterobject.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:30+07:00"}
+{"durationms":2341,"event":"request","method":"GET","path":"/api/apps/Arale/files/pattern_and_tool.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:32+07:00"}
+{"durationms":756,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format.bat","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:33+07:00"}
+{"durationms":478,"event":"request","method":"GET","path":"/api/apps/Arale/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:33+07:00"}
+{"durationms":355,"event":"request","method":"GET","path":"/api/apps/Arale/files/stair.ico","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:34+07:00"}
+{"durationms":1331,"event":"request","method":"GET","path":"/api/apps/Arale/files/utility.pbd","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:35+07:00"}
+{"application":"Arale","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-17T22:51:35+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:60048","time":"2026-09-17T22:51:35+07:00"}
+{"durationms":1405,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:58608","time":"2026-09-19T20:42:55+07:00"}
+{"durationms":1918,"event":"request","method":"GET","path":"/api/apps/Car/files","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:04+07:00"}
+{"durationms":2126,"event":"request","method":"GET","path":"/api/apps/Car/files/!qhlogs.doc","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:06+07:00"}
+{"durationms":505,"event":"request","method":"GET","path":"/api/apps/Car/files/Car.ini","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:07+07:00"}
+{"durationms":2023,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/approve.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:09+07:00"}
+{"durationms":477,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.exe","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:09+07:00"}
+{"durationms":5363,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/car.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:15+07:00"}
+{"durationms":1425,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/logon.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:16+07:00"}
+{"durationms":2693,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/report.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:19+07:00"}
+{"durationms":475,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/userobj.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:19+07:00"}
+{"durationms":585,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2005/utility.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:20+07:00"}
+{"durationms":287,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Car.ini","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:20+07:00"}
+{"durationms":3956,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/MSVBVM50.DLL","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:24+07:00"}
+{"durationms":461,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.exe","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:24+07:00"}
+{"durationms":375,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/Upgrade.ini","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:25+07:00"}
+{"durationms":1519,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/approve.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:26+07:00"}
+{"durationms":537,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.exe","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:27+07:00"}
+{"durationms":4640,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/car.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:31+07:00"}
+{"durationms":457,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/change_version.sql","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:32+07:00"}
+{"durationms":356,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/dept_emp.txt","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:32+07:00"}
+{"durationms":1579,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/logon.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:34+07:00"}
+{"durationms":3079,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/report.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:37+07:00"}
+{"durationms":665,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/userobj.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:38+07:00"}
+{"durationms":837,"event":"request","method":"GET","path":"/api/apps/Car/files/Car2021/utility.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:38+07:00"}
+{"durationms":4650,"event":"request","method":"GET","path":"/api/apps/Car/files/MSVBVM50.DLL","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:43+07:00"}
+{"durationms":525,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.exe","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:44+07:00"}
+{"durationms":286,"event":"request","method":"GET","path":"/api/apps/Car/files/Upgrade.ini","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:44+07:00"}
+{"durationms":1170,"event":"request","method":"GET","path":"/api/apps/Car/files/approve.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:45+07:00"}
+{"durationms":664,"event":"request","method":"GET","path":"/api/apps/Car/files/car.exe","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:46+07:00"}
+{"durationms":5036,"event":"request","method":"GET","path":"/api/apps/Car/files/car.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:51+07:00"}
+{"durationms":725,"event":"request","method":"GET","path":"/api/apps/Car/files/change_version.sql","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:52+07:00"}
+{"durationms":632,"event":"request","method":"GET","path":"/api/apps/Car/files/dept_emp.txt","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:52+07:00"}
+{"durationms":1676,"event":"request","method":"GET","path":"/api/apps/Car/files/logon.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:54+07:00"}
+{"durationms":2799,"event":"request","method":"GET","path":"/api/apps/Car/files/report.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:57+07:00"}
+{"durationms":572,"event":"request","method":"GET","path":"/api/apps/Car/files/userobj.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:57+07:00"}
+{"durationms":909,"event":"request","method":"GET","path":"/api/apps/Car/files/utility.pbd","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:58+07:00"}
+{"application":"Car","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-19T20:43:58+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:51024","time":"2026-09-19T20:43:58+07:00"}
+{"durationms":1918,"event":"request","method":"GET","path":"/api/apps/HDS/files","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:14+07:00"}
+{"durationms":525,"event":"request","method":"GET","path":"/api/apps/HDS/files/!qhlogs.doc","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:15+07:00"}
+{"durationms":664,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/HDSCUR1.BK1","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:15+07:00"}
+{"durationms":414,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Thumbs.db","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:16+07:00"}
+{"durationms":476,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Upgrade.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:16+07:00"}
+{"durationms":338,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Upgrade.ini","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:17+07:00"}
+{"durationms":1490,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/computer1.bmp","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:18+07:00"}
+{"durationms":418,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:18+07:00"}
+{"durationms":1079,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:20+07:00"}
+{"durationms":3817,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.pbl","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:23+07:00"}
+{"durationms":501,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/hds.ico","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:24+07:00"}
+{"durationms":398,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/hds.pbr","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:24+07:00"}
+{"durationms":5474,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.dll","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:30+07:00"}
+{"durationms":661,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:30+07:00"}
+{"durationms":573,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.ini","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:31+07:00"}
+{"durationms":6100,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:37+07:00"}
+{"durationms":10877,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.pbl","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:48+07:00"}
+{"durationms":940,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/narai.bmp","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:49+07:00"}
+{"durationms":334,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/rep.pbr","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:49+07:00"}
+{"durationms":2470,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/report.dll","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:52+07:00"}
+{"durationms":2158,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/report.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:54+07:00"}
+{"durationms":677,"event":"request","method":"GET","path":"/api/apps/HDS/files/HDSCUR1.BK1","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:55+07:00"}
+{"durationms":387,"event":"request","method":"GET","path":"/api/apps/HDS/files/Thumbs.db","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:55+07:00"}
+{"durationms":483,"event":"request","method":"GET","path":"/api/apps/HDS/files/Upgrade.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:55+07:00"}
+{"durationms":293,"event":"request","method":"GET","path":"/api/apps/HDS/files/Upgrade.ini","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:56+07:00"}
+{"durationms":1632,"event":"request","method":"GET","path":"/api/apps/HDS/files/computer1.bmp","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:57+07:00"}
+{"durationms":506,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:58+07:00"}
+{"durationms":1166,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:44:59+07:00"}
+{"durationms":3912,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.pbl","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:03+07:00"}
+{"durationms":657,"event":"request","method":"GET","path":"/api/apps/HDS/files/hds.ico","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:04+07:00"}
+{"durationms":351,"event":"request","method":"GET","path":"/api/apps/HDS/files/hds.pbr","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:04+07:00"}
+{"durationms":5543,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.dll","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:10+07:00"}
+{"durationms":929,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.exe","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:10+07:00"}
+{"durationms":367,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.ini","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:11+07:00"}
+{"durationms":6731,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:18+07:00"}
+{"durationms":11043,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.pbl","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:29+07:00"}
+{"durationms":951,"event":"request","method":"GET","path":"/api/apps/HDS/files/narai.bmp","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:30+07:00"}
+{"durationms":287,"event":"request","method":"GET","path":"/api/apps/HDS/files/rep.pbr","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:30+07:00"}
+{"durationms":4315,"event":"request","method":"GET","path":"/api/apps/HDS/files/report.dll","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:34+07:00"}
+{"durationms":2457,"event":"request","method":"GET","path":"/api/apps/HDS/files/report.pbd","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:37+07:00"}
+{"application":"HDS","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-19T20:45:37+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:61156","time":"2026-09-19T20:45:37+07:00"}
+{"durationms":1839,"event":"request","method":"GET","path":"/api/apps/HDS/files","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:56+07:00"}
+{"durationms":563,"event":"request","method":"GET","path":"/api/apps/HDS/files/!qhlogs.doc","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:57+07:00"}
+{"durationms":696,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/HDSCUR1.BK1","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:57+07:00"}
+{"durationms":418,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Thumbs.db","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:58+07:00"}
+{"durationms":426,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Upgrade.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:58+07:00"}
+{"durationms":280,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/Upgrade.ini","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:45:59+07:00"}
+{"durationms":1554,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/computer1.bmp","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:00+07:00"}
+{"durationms":575,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:01+07:00"}
+{"durationms":1060,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:02+07:00"}
+{"durationms":3600,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/damage.pbl","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:05+07:00"}
+{"durationms":436,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/hds.ico","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:06+07:00"}
+{"durationms":300,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/hds.pbr","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:06+07:00"}
+{"durationms":5102,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.dll","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:11+07:00"}
+{"durationms":416,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:12+07:00"}
+{"durationms":298,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.ini","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:12+07:00"}
+{"durationms":5538,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:17+07:00"}
+{"durationms":10541,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/helpdesk.pbl","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:28+07:00"}
+{"durationms":858,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/narai.bmp","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:29+07:00"}
+{"durationms":295,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/rep.pbr","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:29+07:00"}
+{"durationms":2794,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/report.dll","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:32+07:00"}
+{"durationms":2389,"event":"request","method":"GET","path":"/api/apps/HDS/files/Backup/report.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:34+07:00"}
+{"durationms":735,"event":"request","method":"GET","path":"/api/apps/HDS/files/HDSCUR1.BK1","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:35+07:00"}
+{"durationms":395,"event":"request","method":"GET","path":"/api/apps/HDS/files/Thumbs.db","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:35+07:00"}
+{"durationms":443,"event":"request","method":"GET","path":"/api/apps/HDS/files/Upgrade.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:36+07:00"}
+{"durationms":362,"event":"request","method":"GET","path":"/api/apps/HDS/files/Upgrade.ini","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:36+07:00"}
+{"durationms":1569,"event":"request","method":"GET","path":"/api/apps/HDS/files/computer1.bmp","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:38+07:00"}
+{"durationms":519,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:38+07:00"}
+{"durationms":1244,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:40+07:00"}
+{"durationms":3431,"event":"request","method":"GET","path":"/api/apps/HDS/files/damage.pbl","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:43+07:00"}
+{"durationms":281,"event":"request","method":"GET","path":"/api/apps/HDS/files/hds.ico","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:43+07:00"}
+{"durationms":314,"event":"request","method":"GET","path":"/api/apps/HDS/files/hds.pbr","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:44+07:00"}
+{"durationms":6835,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.dll","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:51+07:00"}
+{"durationms":760,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.exe","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:51+07:00"}
+{"durationms":320,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.ini","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:52+07:00"}
+{"durationms":6670,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:46:58+07:00"}
+{"durationms":12076,"event":"request","method":"GET","path":"/api/apps/HDS/files/helpdesk.pbl","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:10+07:00"}
+{"durationms":885,"event":"request","method":"GET","path":"/api/apps/HDS/files/narai.bmp","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:11+07:00"}
+{"durationms":324,"event":"request","method":"GET","path":"/api/apps/HDS/files/rep.pbr","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:12+07:00"}
+{"durationms":2746,"event":"request","method":"GET","path":"/api/apps/HDS/files/report.dll","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:14+07:00"}
+{"durationms":2379,"event":"request","method":"GET","path":"/api/apps/HDS/files/report.pbd","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:17+07:00"}
+{"application":"HDS","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-19T20:47:17+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:61091","time":"2026-09-19T20:47:17+07:00"}
+{"durationms":4143,"event":"request","method":"GET","path":"/api/apps/LBP/files","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:48:57+07:00"}
+{"durationms":1849,"event":"request","method":"GET","path":"/api/apps/LBP/files/!qhlogs.doc","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:48:59+07:00"}
+{"durationms":3601,"event":"request","method":"GET","path":"/api/apps/LBP/files/220253_2.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:03+07:00"}
+{"durationms":1257,"event":"request","method":"GET","path":"/api/apps/LBP/files/220253_2.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:04+07:00"}
+{"durationms":502,"event":"request","method":"GET","path":"/api/apps/LBP/files/BKK/Upgrade.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:04+07:00"}
+{"durationms":432,"event":"request","method":"GET","path":"/api/apps/LBP/files/BKK/Upgrade.ini","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:05+07:00"}
+{"durationms":5084,"event":"request","method":"GET","path":"/api/apps/LBP/files/DisMapDriveQAuto.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:10+07:00"}
+{"durationms":355,"event":"request","method":"GET","path":"/api/apps/LBP/files/LBP.INI","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:10+07:00"}
+{"durationms":345,"event":"request","method":"GET","path":"/api/apps/LBP/files/LBP.pbr","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:11+07:00"}
+{"durationms":523,"event":"request","method":"GET","path":"/api/apps/LBP/files/LPN/Upgrade.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:11+07:00"}
+{"durationms":344,"event":"request","method":"GET","path":"/api/apps/LBP/files/LPN/Upgrade.ini","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:11+07:00"}
+{"durationms":398,"event":"request","method":"GET","path":"/api/apps/LBP/files/LTC.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:12+07:00"}
+{"durationms":387,"event":"request","method":"GET","path":"/api/apps/LBP/files/LT_MARK.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:12+07:00"}
+{"durationms":368,"event":"request","method":"GET","path":"/api/apps/LBP/files/LT_MARK.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:13+07:00"}
+{"durationms":5920,"event":"request","method":"GET","path":"/api/apps/LBP/files/MapDriveQAuto.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:18+07:00"}
+{"durationms":609,"event":"request","method":"GET","path":"/api/apps/LBP/files/None.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:19+07:00"}
+{"durationms":433,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_BRE.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:20+07:00"}
+{"durationms":479,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_ET.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:20+07:00"}
+{"durationms":832,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_JETBEST.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:21+07:00"}
+{"durationms":776,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_RICHEMONT.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:22+07:00"}
+{"durationms":495,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_RICH_JP.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:22+07:00"}
+{"durationms":571,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_SCHNEIDER.BMP.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:23+07:00"}
+{"durationms":608,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_THANULUX.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:23+07:00"}
+{"durationms":535,"event":"request","method":"GET","path":"/api/apps/LBP/files/TRI_WITH.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:24+07:00"}
+{"durationms":564,"event":"request","method":"GET","path":"/api/apps/LBP/files/Template/template_cbs.xlsx","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:24+07:00"}
+{"durationms":636,"event":"request","method":"GET","path":"/api/apps/LBP/files/Thumbs.db","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:25+07:00"}
+{"durationms":469,"event":"request","method":"GET","path":"/api/apps/LBP/files/Upgrade.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:26+07:00"}
+{"durationms":297,"event":"request","method":"GET","path":"/api/apps/LBP/files/Upgrade.ini","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:26+07:00"}
+{"durationms":430,"event":"request","method":"GET","path":"/api/apps/LBP/files/WITH_RM.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:26+07:00"}
+{"durationms":464,"event":"request","method":"GET","path":"/api/apps/LBP/files/WP2.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:27+07:00"}
+{"durationms":1040,"event":"request","method":"GET","path":"/api/apps/LBP/files/abw.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:28+07:00"}
+{"durationms":506,"event":"request","method":"GET","path":"/api/apps/LBP/files/abw.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:28+07:00"}
+{"durationms":408,"event":"request","method":"GET","path":"/api/apps/LBP/files/footer.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:29+07:00"}
+{"durationms":1922,"event":"request","method":"GET","path":"/api/apps/LBP/files/idiom.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:31+07:00"}
+{"durationms":419,"event":"request","method":"GET","path":"/api/apps/LBP/files/idiom.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:31+07:00"}
+{"durationms":2286,"event":"request","method":"GET","path":"/api/apps/LBP/files/idiom_old.bmp","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:33+07:00"}
+{"durationms":642,"event":"request","method":"GET","path":"/api/apps/LBP/files/idiom_old.jpg","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:34+07:00"}
+{"durationms":7342,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:41+07:00"}
+{"durationms":636,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp.ico","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:42+07:00"}
+{"durationms":1457,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:49:43+07:00"}
+{"durationms":31560,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp_app.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:15+07:00"}
+{"durationms":3800,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp_d.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:19+07:00"}
+{"durationms":12942,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp_j.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:32+07:00"}
+{"durationms":1413,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp_menu.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:33+07:00"}
+{"durationms":3127,"event":"request","method":"GET","path":"/api/apps/LBP/files/lbp_t.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:36+07:00"}
+{"durationms":1367,"event":"request","method":"GET","path":"/api/apps/LBP/files/master_object.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:38+07:00"}
+{"durationms":2212,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:40+07:00"}
+{"durationms":1943,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:42+07:00"}
+{"durationms":17159,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp_app.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:50:59+07:00"}
+{"durationms":2570,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp_d.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:02+07:00"}
+{"durationms":12000,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp_j.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:14+07:00"}
+{"durationms":1411,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp_menu.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:15+07:00"}
+{"durationms":2836,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/lbp_t.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:18+07:00"}
+{"durationms":878,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/master_object.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:19+07:00"}
+{"durationms":1498,"event":"request","method":"GET","path":"/api/apps/LBP/files/old/utility.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:20+07:00"}
+{"durationms":1469,"event":"request","method":"GET","path":"/api/apps/LBP/files/pb125_sysam.properties","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:22+07:00"}
+{"durationms":1283,"event":"request","method":"GET","path":"/api/apps/LBP/files/ren_type_format.bat","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:23+07:00"}
+{"durationms":700,"event":"request","method":"GET","path":"/api/apps/LBP/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:24+07:00"}
+{"durationms":13638,"event":"request","method":"GET","path":"/api/apps/LBP/files/setup/PBCLTRT125.msi","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:51:37+07:00"}
+{"durationms":284010,"event":"request","method":"GET","path":"/api/apps/LBP/files/setup/VSIsoShell.exe","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:56:21+07:00"}
+{"durationms":2114,"event":"request","method":"GET","path":"/api/apps/LBP/files/utility.pbd","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:56:23+07:00"}
+{"durationms":3789,"event":"request","method":"GET","path":"/api/apps/LBP/files/คู่มือ/คู่มือการใช้ระบบงาน LBP.doc","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:56:27+07:00"}
+{"application":"LBP","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-19T20:56:27+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:64534","time":"2026-09-19T20:56:27+07:00"}
+{"durationms":1352,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:65184","time":"2026-09-19T21:11:00+07:00"}
+{"durationms":1249,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:64778","time":"2026-09-19T21:14:49+07:00"}
+{"durationms":1171,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:60636","time":"2026-09-19T21:17:41+07:00"}
+{"durationms":987,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:60636","time":"2026-09-19T21:17:42+07:00"}
+{"durationms":1683,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:24:36+07:00"}
+{"durationms":12901,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:27+07:00"}
+{"durationms":878,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/!qhlogs.doc","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:28+07:00"}
+{"durationms":499,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/EXIT2.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:28+07:00"}
+{"durationms":1442,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/EXIT3.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:30+07:00"}
+{"durationms":3311,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Logon.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:33+07:00"}
+{"durationms":2200,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Logon2.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:35+07:00"}
+{"durationms":1877,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Logon_bk.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:37+07:00"}
+{"durationms":1116,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Logon_button.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:38+07:00"}
+{"durationms":898,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Logon_exit.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:39+07:00"}
+{"durationms":500,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/RMSTOCK.pbr","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:40+07:00"}
+{"durationms":739,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/RMSTOCK_text2.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:40+07:00"}
+{"durationms":1194,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/RMStock_Logo_Gray.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:42+07:00"}
+{"durationms":950,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/RM_SWT.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:43+07:00"}
+{"durationms":421,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Format1.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:43+07:00"}
+{"durationms":665,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Original/PICKPACK.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:44+07:00"}
+{"durationms":366,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Original/PICKPACK.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:44+07:00"}
+{"durationms":630,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Original/PICKPACK_BOX.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:45+07:00"}
+{"durationms":480,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Original/PICKPACK_BOX.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:45+07:00"}
+{"durationms":616,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Original/PICKPACK_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:46+07:00"}
+{"durationms":617,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK - Old.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:46+07:00"}
+{"durationms":379,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:47+07:00"}
+{"durationms":562,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:47+07:00"}
+{"durationms":344,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:48+07:00"}
+{"durationms":670,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_BOX.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:48+07:00"}
+{"durationms":536,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_BOX.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:49+07:00"}
+{"durationms":659,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_SUM (Old).txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:50+07:00"}
+{"durationms":558,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_SUM - Old.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:50+07:00"}
+{"durationms":697,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_SUM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:51+07:00"}
+{"durationms":662,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/PICKPACK_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:51+07:00"}
+{"durationms":835,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/RA_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:52+07:00"}
+{"durationms":888,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/RM_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:53+07:00"}
+{"durationms":508,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/RM_SWT.BTW","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:54+07:00"}
+{"durationms":618,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/RM_SWT.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:54+07:00"}
+{"durationms":538,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/TAG_PICK_RM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:55+07:00"}
+{"durationms":680,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:56+07:00"}
+{"durationms":523,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/TAG_PICK_RM_old.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:56+07:00"}
+{"durationms":495,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/Tag_RA.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:57+07:00"}
+{"durationms":655,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_BOX_1.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:57+07:00"}
+{"durationms":636,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_BOX_1.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:58+07:00"}
+{"durationms":1028,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_BOX_2.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:25:59+07:00"}
+{"durationms":898,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_BOX_2.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:00+07:00"}
+{"durationms":568,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_BOX_NEW.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:00+07:00"}
+{"durationms":639,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_NEW (old).btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:01+07:00"}
+{"durationms":658,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_NEW.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:02+07:00"}
+{"durationms":624,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_NEW.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:02+07:00"}
+{"durationms":574,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/PICKPACK_NEW.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:03+07:00"}
+{"durationms":621,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Cutting/v3 - Cutting.rar","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:03+07:00"}
+{"durationms":846,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/Backup/QCSticker.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:04+07:00"}
+{"durationms":625,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/Backup/QCSticker.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:05+07:00"}
+{"durationms":659,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/Backup/QCSticker.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:06+07:00"}
+{"durationms":598,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/How_To.png","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:06+07:00"}
+{"durationms":837,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/QCSticker.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:07+07:00"}
+{"durationms":1079,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/QCSticker.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:08+07:00"}
+{"durationms":782,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Leather QC/Leather_QC/Thumbs.db","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:09+07:00"}
+{"durationms":755,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/TAG_PICK_RM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:10+07:00"}
+{"durationms":1059,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:11+07:00"}
+{"durationms":477,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/TAG_PICK_RM_SUM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:11+07:00"}
+{"durationms":694,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/TAG_PICK_RM_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:12+07:00"}
+{"durationms":641,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:13+07:00"}
+{"durationms":471,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New - V2/run_tag_pick_rm_2.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:13+07:00"}
+{"durationms":705,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New/TAG_PICK_RM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:14+07:00"}
+{"durationms":499,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:14+07:00"}
+{"durationms":681,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New/TAG_PICK_RM_SUM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:15+07:00"}
+{"durationms":804,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New/TAG_PICK_RM_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:16+07:00"}
+{"durationms":754,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/New/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:16+07:00"}
+{"durationms":539,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/TAG_PICK_RM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:17+07:00"}
+{"durationms":593,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:18+07:00"}
+{"durationms":560,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/TAG_PICK_RM_SUM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:18+07:00"}
+{"durationms":575,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/TAG_PICK_RM_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:19+07:00"}
+{"durationms":481,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker (v2)/Stickker Cutting v3/v3 - Rmstock/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:19+07:00"}
+{"durationms":597,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/Backup/QCSticker.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:20+07:00"}
+{"durationms":599,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/Backup/QCSticker.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:20+07:00"}
+{"durationms":1158,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/Backup/QCSticker.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:22+07:00"}
+{"durationms":920,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/How_To.png","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:23+07:00"}
+{"durationms":455,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/QCSticker.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:23+07:00"}
+{"durationms":458,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/QCSticker.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:23+07:00"}
+{"durationms":598,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/_Save Sticker/QCSticker/Leather_QC/Thumbs.db","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:24+07:00"}
+{"durationms":719,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/flow_pack_stock.pptx","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:25+07:00"}
+{"durationms":476,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/New/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:25+07:00"}
+{"durationms":619,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/PICKPACK_NEW.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:26+07:00"}
+{"durationms":480,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/RA_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:26+07:00"}
+{"durationms":1087,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/RM_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:27+07:00"}
+{"durationms":535,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/RM_SWT.BTW","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:28+07:00"}
+{"durationms":672,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:29+07:00"}
+{"durationms":639,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/TAG_PICK_RM_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:29+07:00"}
+{"durationms":577,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/Tag_RA.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:30+07:00"}
+{"durationms":759,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Old/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:31+07:00"}
+{"durationms":601,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_BOX_1.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:31+07:00"}
+{"durationms":747,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_BOX_1.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:32+07:00"}
+{"durationms":849,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_BOX_2.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:33+07:00"}
+{"durationms":475,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_BOX_2.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:33+07:00"}
+{"durationms":657,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_BOX_NEW.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:34+07:00"}
+{"durationms":559,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_NEW.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:35+07:00"}
+{"durationms":639,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_NEW.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:35+07:00"}
+{"durationms":681,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/PICKPACK_NEW.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:36+07:00"}
+{"durationms":455,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/QCSticker.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:36+07:00"}
+{"durationms":858,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/QCSticker.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:37+07:00"}
+{"durationms":796,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/QCSticker.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:38+07:00"}
+{"durationms":927,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/RA_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:39+07:00"}
+{"durationms":727,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/RM_SMALL_TAG.TXT","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:40+07:00"}
+{"durationms":368,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/RM_SWT.BTW","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:40+07:00"}
+{"durationms":689,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/TAG_PICK_RM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:41+07:00"}
+{"durationms":463,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/TAG_PICK_RM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:41+07:00"}
+{"durationms":658,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/TAG_PICK_RM_SUM.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:42+07:00"}
+{"durationms":521,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/TAG_PICK_RM_SUM.txt","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:42+07:00"}
+{"durationms":628,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_COL.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:43+07:00"}
+{"durationms":916,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_COL.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:44+07:00"}
+{"durationms":350,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_LAB.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:44+07:00"}
+{"durationms":558,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_LAB.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:45+07:00"}
+{"durationms":439,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_RA.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:45+07:00"}
+{"durationms":447,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_RI.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:46+07:00"}
+{"durationms":518,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/Tag_RI.btw","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:46+07:00"}
+{"durationms":608,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/run_tag_pick_rm.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:47+07:00"}
+{"durationms":524,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/STICKER/run_tag_pick_rm_2.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:47+07:00"}
+{"durationms":503,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Tag_RA.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:48+07:00"}
+{"durationms":328,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Tag_fab.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:48+07:00"}
+{"durationms":1039,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Template/Send_Job_Leather.xlsx","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:49+07:00"}
+{"durationms":5858,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Template/rastock_l.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:55+07:00"}
+{"durationms":849,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Thumbs.db","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:56+07:00"}
+{"durationms":449,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Upgrade.exe","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:56+07:00"}
+{"durationms":487,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/Upgrade.ini","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:57+07:00"}
+{"durationms":1752,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/app_mgt.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:26:59+07:00"}
+{"durationms":1085,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/copy_plant.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:00+07:00"}
+{"durationms":1605,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/copy_ref1.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:01+07:00"}
+{"durationms":1657,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/copy_ref2.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:03+07:00"}
+{"durationms":3770,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/cutting_center.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:07+07:00"}
+{"durationms":1134,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/image.pbr","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:08+07:00"}
+{"durationms":863,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/logotnlx.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:09+07:00"}
+{"durationms":1519,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/menu_bk.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:10+07:00"}
+{"durationms":2052,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/menu_bk_temp.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:12+07:00"}
+{"durationms":2278,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/app_mgt.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:15+07:00"}
+{"durationms":3429,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/cutting_center.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:18+07:00"}
+{"durationms":2797,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/plan.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:21+07:00"}
+{"durationms":3116,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/pre_production.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:24+07:00"}
+{"durationms":9975,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rastock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:34+07:00"}
+{"durationms":7239,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rastock_l.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:41+07:00"}
+{"durationms":12192,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/report.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:27:53+07:00"}
+{"durationms":9475,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/report_ra.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:03+07:00"}
+{"durationms":13999,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rmstock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:17+07:00"}
+{"durationms":15118,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rmstock_le.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:32+07:00"}
+{"durationms":2720,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rmstock_pb.exe","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:35+07:00"}
+{"durationms":3283,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/rmstock_t.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:38+07:00"}
+{"durationms":2845,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/setup.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:41+07:00"}
+{"durationms":9626,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/test_system.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:50+07:00"}
+{"durationms":4961,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/transaction.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:55+07:00"}
+{"durationms":1855,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/new connect/utility_w.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:57+07:00"}
+{"durationms":1040,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/RMSTOCK.pbr","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:58+07:00"}
+{"durationms":1197,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/Upgrade.exe","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:28:59+07:00"}
+{"durationms":1107,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/Upgrade.ini","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:01+07:00"}
+{"durationms":2951,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/app_mgt.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:04+07:00"}
+{"durationms":3676,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/cutting_center.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:07+07:00"}
+{"durationms":2642,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/plan.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:10+07:00"}
+{"durationms":2969,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/pre_production.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:13+07:00"}
+{"durationms":10797,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rastock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:24+07:00"}
+{"durationms":7352,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rastock_l.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:31+07:00"}
+{"durationms":12632,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/report.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:44+07:00"}
+{"durationms":9361,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/report_ra.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:53+07:00"}
+{"durationms":3050,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstatus.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:56+07:00"}
+{"durationms":1277,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstock.ini","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:29:57+07:00"}
+{"durationms":16637,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:14+07:00"}
+{"durationms":12546,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstock_le.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:26+07:00"}
+{"durationms":6090,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstock_pb.exe","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:33+07:00"}
+{"durationms":3270,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/rmstock_t.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:36+07:00"}
+{"durationms":2930,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/setup.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:39+07:00"}
+{"durationms":12505,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/test_system.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:51+07:00"}
+{"durationms":6639,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/transaction.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:30:58+07:00"}
+{"durationms":1770,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/old 16-09-2025/utility_w.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:00+07:00"}
+{"durationms":3104,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/password.bmp","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:03+07:00"}
+{"durationms":3039,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/plan.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:06+07:00"}
+{"durationms":2559,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/pre_production.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:08+07:00"}
+{"durationms":10638,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rastock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:19+07:00"}
+{"durationms":7199,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rastock_l.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:26+07:00"}
+{"durationms":1608,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/ren_type_format.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:28+07:00"}
+{"durationms":947,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/ren_type_format_1.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:29+07:00"}
+{"durationms":714,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rename.bat","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:30+07:00"}
+{"durationms":11998,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/report.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:42+07:00"}
+{"durationms":8879,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/report_ra.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:50+07:00"}
+{"durationms":2642,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rm_stock_p.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:53+07:00"}
+{"durationms":2795,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstatus.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:56+07:00"}
+{"durationms":821,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstock.ini","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:31:57+07:00"}
+{"durationms":12294,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstock.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:09+07:00"}
+{"durationms":13150,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstock_le.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:22+07:00"}
+{"durationms":7569,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstock_pb.exe","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:30+07:00"}
+{"durationms":3231,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/rmstock_t.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:33+07:00"}
+{"durationms":3005,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/setup.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:36+07:00"}
+{"durationms":11686,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/test_system.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:48+07:00"}
+{"durationms":6630,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/transaction.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:54+07:00"}
+{"durationms":2629,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/transaction_ra.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:57+07:00"}
+{"durationms":2332,"event":"request","method":"GET","path":"/api/apps/RMSTOCK/files/utility_w.pbd","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:32:59+07:00"}
+{"application":"RMSTOCK","error":"","event":"client_report","message":"completed","status":"success","time":"2026-09-19T21:33:00+07:00"}
+{"durationms":0,"event":"request","method":"POST","path":"/api/update/report","remote_ip":"127.0.0.1:62055","time":"2026-09-19T21:33:00+07:00"}
+{"durationms":1131,"event":"request","method":"GET","path":"/api/apps","remote_ip":"127.0.0.1:59724","time":"2026-09-19T21:33:09+07:00"}
