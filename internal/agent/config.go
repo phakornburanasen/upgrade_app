@@ -36,6 +36,12 @@ func LoadConfig(path string) (Config, error) {
 		}
 		return cfg, err
 	}
+	if IsEncryptedConfig(b) {
+		b, err = DecryptConfigBytes(b)
+		if err != nil {
+			return cfg, err
+		}
+	}
 	if err := json.Unmarshal(b, &cfg); err != nil {
 		return cfg, err
 	}

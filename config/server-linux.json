@@ -1,5 +1,6 @@
 {
-  "listen_addr": "0.0.0.0:45000",
+  "host": "0.0.0.0",
+  "port": 45000,
   "source_path": "/mnt/appl/Program",
   "log_path": "logs/update-server.log"
 }

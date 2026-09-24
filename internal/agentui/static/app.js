@@ -19,7 +19,6 @@ const stickyBarFillEl = document.getElementById("stickyBarFill");
 const selectedCountEl = document.getElementById("selectedCount");
 const selectedListEl = document.getElementById("selectedList");
 let apps = [];
-let appChecks = {};
 let completedApps = {};
 let selectedAppNames = new Set();
 let currentJob = null;
@@ -61,56 +60,45 @@ function renderApps() {
   const visibleApps = query
     ? apps.filter(app => `${app.name} ${app.path || ""}`.toLowerCase().includes(query))
     : apps;
-  appsEl.innerHTML = visibleApps.map(app => `
-    <article class="app-card ${completedApps[app.name] ? "updated" : ""}" id="card-${safeId(app.name)}">
-      <label class="app-title">
-        <input type="checkbox" value="${escapeHtml(app.name)}" ${selectedAppNames.has(app.name) ? "checked" : ""}>
-        <span class="app-name">${escapeHtml(app.name)}</span>
-        <strong class="updated-mark" id="mark-${safeId(app.name)}">${completedApps[app.name] ? "Done" : ""}</strong>
-      </label>
-      <div class="app-meta">${escapeHtml(app.path || app.name)}</div>
-      <div class="check-result" id="check-${safeId(app.name)}">${renderCheck(app.name)}</div>
-      <div class="app-actions">
-        <button class="secondary" data-check="${escapeHtml(app.name)}">Up Check</button>
-        <button class="primary" data-update="${escapeHtml(app.name)}">Update</button>
-      </div>
-    </article>
-  `).join("");
+  appsEl.innerHTML = visibleApps.map(renderAppCard).join("");
   if (!visibleApps.length) {
     appsEl.innerHTML = `<div class="empty-state">No programs found.</div>`;
   }
   updateSelectedSummary();
 }
 
-function renderCheck(appName) {
-  const check = appChecks[appName];
-  if (!check) return "Not checked";
-  if (check.status === "checking") return "Checking...";
-  if (check.status === "failed") return `Check failed: ${escapeHtml(check.error)}`;
-  return `${check.file_count} files | ${formatBytes(check.total_bytes)}`;
+function renderAppCard(app) {
+  const id = safeId(app.name);
+  const name = escapeHtml(app.name);
+  const selected = selectedAppNames.has(app.name);
+  const classes = ["app-card", app.installed ? "installed" : "not-installed"];
+  if (selected) classes.push("selected");
+  if (completedApps[app.name]) classes.push("updated");
+  return `
+    <article class="${classes.join(" ")}" id="card-${id}" title="${escapeHtml(app.path || app.name)}">
+      <label class="app-select">
+        <input type="checkbox" value="${name}" ${selected ? "checked" : ""}>
+        <span class="app-icon" aria-hidden="true"><span>${escapeHtml(initials(app.name))}</span></span>
+        <span class="app-info">
+          <span class="app-name">${name}</span>
+          <span class="app-status" id="status-${id}">${statusText(app)}</span>
+        </span>
+      </label>
+      <button class="app-action" data-update="${name}" id="action-${id}">${app.installed ? "Update" : "Install"}</button>
+    </article>
+  `;
 }
 
-async function upCheck(appName) {
-  appChecks[appName] = { status: "checking" };
-  updateCheckResult(appName);
-  try {
-    const data = await api(`/api/apps/${encodeURIComponent(appName)}/files`);
-    appChecks[appName] = {
-      status: "success",
-      file_count: data.file_count,
-      total_bytes: data.total_bytes
-    };
-    noticeEl.textContent = `${appName}: ${data.file_count} files, ${formatBytes(data.total_bytes)} ready.`;
-  } catch (err) {
-    appChecks[appName] = { status: "failed", error: err.message };
-    noticeEl.textContent = `${appName}: ${err.message}`;
-  }
-  updateCheckResult(appName);
+function statusText(app) {
+  if (completedApps[app.name]) return "Up to date";
+  return app.installed ? "Installed" : "Not installed";
 }
 
-function updateCheckResult(appName) {
-  const el = document.getElementById(`check-${safeId(appName)}`);
-  if (el) el.innerHTML = renderCheck(appName);
+function initials(name) {
+  const words = String(name).trim().split(/[\s_.-]+/).filter(Boolean);
+  if (!words.length) return "?";
+  if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
+  return (words[0][0] + words[1][0]).toUpperCase();
 }
 
 async function startUpdate(selected) {
@@ -197,10 +185,10 @@ function markCompletedApps(results) {
   for (const result of results) {
     if (result.status !== "success") continue;
     completedApps[result.application] = true;
+    const app = apps.find(item => item.name === result.application);
+    if (app) app.installed = true;
     const card = document.getElementById(`card-${safeId(result.application)}`);
-    const mark = document.getElementById(`mark-${safeId(result.application)}`);
-    if (card) card.classList.add("updated");
-    if (mark) mark.textContent = "Done";
+    if (card && app) card.outerHTML = renderAppCard(app);
   }
 }
 
@@ -259,8 +247,6 @@ searchAppsEl.addEventListener("input", renderApps);
 document.getElementById("updateSelected").addEventListener("click", () => startUpdate(selectedApps()));
 document.getElementById("updateAll").addEventListener("click", () => startUpdate(apps.map(app => app.name)));
 appsEl.addEventListener("click", event => {
-  const checkApp = event.target.getAttribute("data-check");
-  if (checkApp) upCheck(checkApp);
   const app = event.target.getAttribute("data-update");
   if (app) startUpdate([app]);
 });
@@ -271,6 +257,7 @@ appsEl.addEventListener("change", event => {
   } else {
     selectedAppNames.delete(event.target.value);
   }
+  event.target.closest(".app-card").classList.toggle("selected", event.target.checked);
   updateSelectedSummary();
 });
 
@@ -279,7 +266,10 @@ selectedListEl.addEventListener("click", event => {
   if (!app) return;
   selectedAppNames.delete(app);
   const checkbox = appsEl.querySelector(`input[type=checkbox][value="${cssEscape(app)}"]`);
-  if (checkbox) checkbox.checked = false;
+  if (checkbox) {
+    checkbox.checked = false;
+    checkbox.closest(".app-card").classList.remove("selected");
+  }
   updateSelectedSummary();
 });
 

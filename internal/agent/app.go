@@ -28,8 +28,9 @@ type App struct {
 }
 
 type RemoteApp struct {
-	Name string `json:"name"`
-	Path string `json:"path"`
+	Name      string `json:"name"`
+	Path      string `json:"path"`
+	Installed bool   `json:"installed"`
 }
 
 type FileEntry struct {
@@ -89,6 +90,7 @@ func (a *App) index(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	w.Header().Set("Content-Type", "text/html; charset=utf-8")
+	w.Header().Set("Cache-Control", "no-cache")
 	_, _ = w.Write(b)
 }
 
@@ -107,6 +109,7 @@ func (a *App) static(w http.ResponseWriter, r *http.Request) {
 	if ctype := mime.TypeByExtension(filepath.Ext(clean)); ctype != "" {
 		w.Header().Set("Content-Type", ctype)
 	}
+	w.Header().Set("Cache-Control", "no-cache")
 	_, _ = w.Write(b)
 }
 
@@ -132,6 +135,9 @@ func (a *App) apps(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		writeError(w, http.StatusBadGateway, "SERVER_UNAVAILABLE", err.Error())
 		return
+	}
+	for i := range apps {
+		apps[i].Installed = dirExists(filepath.Join(a.cfg.InstallPath, apps[i].Name))
 	}
 	writeJSON(w, http.StatusOK, map[string]any{"success": true, "data": map[string]any{"apps": apps}})
 }
